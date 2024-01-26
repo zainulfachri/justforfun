@@ -1,1 +1,3 @@
-![Minimal Pastel Preview](https://github.com/zainulfachri/justforfun/assets/147138335/8a821b70-5b68-4e06-b0f3-9e6dfac4f4d3)
+# Minimal Pastel
+
+This template was created by [Oscar Martínez Valero (Valerock)](https://linktr.ee/oscarvalerock "Oscar Martínez Valero (Valerock)").
